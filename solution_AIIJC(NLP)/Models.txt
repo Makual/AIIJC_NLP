@@ -1,0 +1,2 @@
+https://drive.google.com/file/d/13Nuwm7BV-4RXI9JqjPTDE9rcdupkKqlF/view?usp=sharing - Модель обученная на GPU(Используется)
+https://drive.google.com/file/d/1fMZoBVDJp5t812wlp37hNnAggrqVsLpc/view?usp=sharing - Модель обученная на CPU
